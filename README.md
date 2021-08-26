@@ -1,5 +1,5 @@
 # Hi, I'm Lê Anh !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hello" width="30">
-* 🔭 I'm passionate about Game Development & Web Development
+- 🔭 I'm passionate about Game Development & Web Development
 <img align="top" alt="Code" width="500px" src="https://raw.githubusercontent.com/CodexploreRepo/CodexploreRepo/master/.github/assets/coding.gif" />
 
 
